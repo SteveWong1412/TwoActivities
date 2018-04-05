@@ -29,6 +29,7 @@
         android:layout_height="wrap_content"
         android:text="@string/button_second"
         android:id="@+id/button_second"
+        android:background="#607d8b"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
